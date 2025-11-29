@@ -15,7 +15,7 @@
 
 ## 克隆与安装依赖
 ```bash
-git clone <repo_url>
+git clone https://github.com/zwj-3193655211/honglvdengtest.git
 cd honglvdengtest
 npm install
 ```
